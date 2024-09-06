@@ -12,14 +12,14 @@ const perguntas = [
         texto: "Incluir uma variedade de alimentos frescos garante uma melhor nutrição e fortalece o sistema imunológico.  ",
         afirmacao: [
        " Uma boa alimentação é a base para uma vida saudável e equilibrada. ",
-       " Consiste em consumir uma ampla variedade de alimentos que forneçam todos os nutrientes essenciais. "],
+       " Consiste em consumir uma ampla variedade de alimentos que forneçam todos os nutrientes essenciais. "]
       },
        {
         texto: " Focar apenas em alimentos processados pode ser mais conveniente, mas pode não fornecer todos os nutrientes essenciais. ",
         afirmacao: [
        " Frutas e vegetais frescos são ricos em vitaminas, minerais e fibras. ",
-       "  Eles devem ser a base de nossa dieta para garantir uma nutrição adequada. "],
-      },
+       "  Eles devem ser a base de nossa dieta para garantir uma nutrição adequada. "]
+      }
       ]
       },
    
@@ -31,14 +31,14 @@ const perguntas = [
         afirmacao: [
        "  Grãos integrais, como arroz integral e aveia, oferecem energia sustentada. ",
        " Esses grãos ajudam também na digestão, mantendo o trato intestinal saudável. ",
-       "  "],
+       "  "]
       },
        {
         texto: " Grãos refinados podem causar picos de açúcar no sangue e oferecer energia de curto prazo. ", 
         afirmacao: [
        "  Proteínas magras, como peixes e aves, são importantes para a construção e reparo dos tecidos. ",
        " Leguminosas, como feijão e lentilhas, são ótimas fontes de proteína vegetal. ",
-       "  "],
+       "  "]
       },
       ]
       },
@@ -51,14 +51,14 @@ const perguntas = [
         afirmacao: [
        " Gorduras saudáveis, encontradas em abacates e nozes, são essenciais para a saúde do coração e do cérebro. ",
        "  Evitar alimentos processados e ricos em açúcares adicionados pode prevenir doenças crônicas. ",
-       "  "],
+       "  "]
       },
        {
         texto: " Proteínas processadas ou ricas em gordura podem contribuir para problemas de saúde, como doenças cardíacas e ganho de peso. ",
         afirmacao: [
        " Doenças como diabetes e hipertensão podem ser mitigadas com escolhas alimentares mais saudáveis. ",
        " O consumo excessivo de sal deve ser evitado para manter a pressão arterial em níveis saudáveis.",
-       "  "],
+       "  "]
       },
       ]
       },
@@ -70,14 +70,14 @@ const perguntas = [
         texto: " Gorduras saudáveis apoiam a saúde cardiovascular e cerebral, promovendo uma melhor função cognitiva e proteção cardíaca. ",
         afirmacao: [
        "  Manter-se hidratado é crucial para o funcionamento adequado dos órgãos e a saúde da pele. ",
-       "  Beber água ao longo do dia ajuda a manter o equilíbrio hídrico do corpo. "],
+       "  Beber água ao longo do dia ajuda a manter o equilíbrio hídrico do corpo. "]
      },
        {
         texto: " Gorduras saturadas e trans podem aumentar o risco de doenças cardíacas e prejudicar a função cognitiva. ",
         afirmacao: [
        "  A moderação é a chave; comer porções adequadas ajuda a evitar o ganho de peso. ",
-       "  moderação também promove a saciedade e o bem-estar geral. "],
-      },
+       "  moderação também promove a saciedade e o bem-estar geral. "]
+      }
       ]
       },   
      
@@ -88,14 +88,14 @@ const perguntas = [
         texto: " Reduzir alimentos processados e açúcares adicionados pode ajudar a prevenir doenças crônicas e manter a pressão arterial saudável. ",
         afirmacao: [
        " Planejar refeições equilibradas e variadas pode tornar a alimentação mais interessante. ",
-       "  Isso também torna a dieta mais prazerosa e fácil de seguir. "],
+       "  Isso também torna a dieta mais prazerosa e fácil de seguir. "]
       },
        {
         texto: " Uma dieta rica em alimentos processados e açúcares pode aumentar o risco de desenvolver doenças crônicas e hipertensão. ",
         afirmacao: [
        "  O preparo de alimentos frescos e caseiros é frequentemente mais saudável. ", 
        "  Opções prontas e processadas geralmente contêm mais aditivos e conservantes. ", 
-       "  " ],
+       "  " ]
       },
       ]
       },
@@ -107,13 +107,13 @@ const perguntas = [
         texto: " A hidratação adequada com água ajuda na função dos órgãos e na eliminação de toxinas, promovendo uma saúde ideal. ",
         afirmacao: [
        " Reduzir o consumo de bebidas açucaradas é uma boa prática para a saúde. ",
-       " Optar por chás naturais ou água é uma alternativa mais saudável. "],
+       " Optar por chás naturais ou água é uma alternativa mais saudável. "]
       },
       {
         texto: "  Bebidas açucaradas e cafeinadas podem causar desidratação e afetar negativamente a saúde geral. ", 
         afirmacao: [
        " A ingestão de alimentos ricos em antioxidantes ajuda a combater o estresse oxidativo. ",
-       "  Berries e vegetais de folhas verdes são excelentes fontes de antioxidantes. "],
+       "  Berries e vegetais de folhas verdes são excelentes fontes de antioxidantes. "]
       },
       ]
       },
@@ -125,7 +125,7 @@ const perguntas = [
         texto: " Refeições equilibradas e variadas ajudam a manter a saciedade e a controlar o peso de forma sustentável. ",
         afirmacao: [
        " Comer devagar e prestar atenção aos sinais de fome e saciedade pode melhorar a digestão. ",
-       " Isso também ajuda no controle de peso e na satisfação após as refeições. "],
+       " Isso também ajuda no controle de peso e na satisfação após as refeições. "]
       },
       {
         texto: " Uma dieta monótona e restritiva pode levar a deficiências nutricionais e dificuldades em manter o peso. ",
@@ -143,14 +143,14 @@ const perguntas = [
         texto: " Adicionar legumes e outros alimentos saudáveis pode melhorar significativamente a saúde geral e a qualidade de vida. ",
         afirmacao: [
        " Uma alimentação saudável deve ser um hábito sustentável e adaptável. ",
-       " Consultar um nutricionista pode ajudar a criar um plano alimentar personalizado. "],
+       " Consultar um nutricionista pode ajudar a criar um plano alimentar personalizado. "]
       },
       {
         texto: " Manter uma dieta rica em alimentos refinados e industrializados pode ter efeitos negativos na saúde e no bem-estar. ",
         afirmacao: [
        " A educação sobre nutrição contribui para escolhas alimentares mais saudáveis. ",
        " A prática regular de exercícios físicos complementa uma dieta saudável, promovendo um estilo de vida equilibrado. ",
-       "  "],
+       "  "]
       },
       ]
       }
